@@ -1,4 +1,3 @@
-# PRODIGY_ML_04
 ## SVM Classifier for Cats vs. Dogs Image Classification
 ### 1 -Project Overview :
 This project aims to classify images of cats and dogs using a Support Vector Machine (SVM) model. The data for this project is sourced from the Kaggle competition "Dogs vs. Cats," where images are labeled either as a "cat" or a "dog." The task involves downloading, preprocessing the images, extracting features, training the model, and evaluating its performance through various metrics.
